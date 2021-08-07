@@ -5,11 +5,11 @@
 
     <name> HANUMANTH <twitter>
 
-# THANKS
+# THANKS & Regards
 
     <Hanumanth>
 
 # HCL COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    injur
